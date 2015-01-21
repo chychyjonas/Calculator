@@ -1,0 +1,54 @@
+body {
+	background-color:white;
+	background-position: relative;
+	text-align: center
+
+}
+
+
+#calculator {
+	width: 198px;
+	height: 300px;
+	margin: 40px 40px 100px 300px;
+	background: black;
+	border-radius: 10px;
+
+
+}
+.SPACE{
+		float: center;
+		position: inline-block;
+		margin: 10px 20px 30px 20px;
+		top:50px;
+}
+.KEYS{
+	margin-top:10px;
+}
+.screen{
+	height: 100px;
+	width: 50px;
+    margin: 10px 10px 10px 30px
+
+
+}
+input{
+	margin-top: 30px;
+}
+
+.tan{
+   background-color:green;
+}
+.sine{
+	background-color: green;
+}
+.cos{
+	background-color: green;
+}
+.cl{
+	background-color: red;
+}
+
+
+
+	
+
